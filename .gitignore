@@ -1,2 +1,6 @@
+# macos file
+.DS_Store
+
 # data
 **titanic/
+**.ipynb_checkpoints/
