@@ -42,3 +42,12 @@ TP BIGDATA - 2019
 - DONNEES : MNIST
 
 **TP4 (22/11): apprentissage non supervisé**
+
+- OBJECTIFS : découverte des fonctionnalités de la plateforme scikit-learn concernant les algorithmes d’apprentissage non supervisé.
+<img align='right' width="120" height="120" src="./images/clustering1.png">
+<img align='right' width="120" height="120" src="./images/clustering2.png">
+
+    - PARTIE I: compréhension des fonctionnalités de scikit-learn concernant l’algorithme k-means et meilleure compréhension de l’impact de la technique d’initialisation.
+    - PARTIE II: classification non supervisée par dénsité (DBSCAN et OPTICS).
+
+- DONNEES : multipshapes (librairie R 'factoextra')
